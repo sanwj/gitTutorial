@@ -3,7 +3,11 @@
             <div>
                 <ul>
                     <li>bricks</li>
+<<<<<<< HEAD
                     <li>more mortar</li>
+=======
+                    <li>less mortar</li>
+>>>>>>> b008b1e010acc779a1fb6839cc5858b1073a930e
                     <li>sand</li>
                     <li>gypsum</li>
                 </ul>
